@@ -28874,21 +28874,21 @@
 [ GLU ]
 ; 
   [ atoms ]
-        N      NH1 -0.3290   1
-       HN        H  0.2170   1
-       CA      CT1  0.0490   1
-       HA      HB1  0.0630   1
-       CB     CT2A -0.1260   2
-      HB1      HA2  0.0630   2
-      HB2      HA2  0.0630   2
+        N      NH1 -0.4700   1
+       HN        H  0.3100   1
+       CA      CT1  0.0700   1
+       HA      HB1  0.0900   1
+       CB     CT2A -0.1800   2
+      HB1      HA2  0.0900   2
+      HB2      HA2  0.0900   2
        CG      CT2 -0.1960   3
       HG1      HA2  0.0630   3
       HG2      HA2  0.0630   3
        CD       CC  0.4340   3
       OE1       OC -0.5320   3
       OE2       OC -0.5320   3
-        C        C  0.3570   4
-        O        O -0.3570   4
+        C        C  0.5100   4
+        O        O -0.5100   4
   [ bonds ]
        CB    CA
        CG    CB
