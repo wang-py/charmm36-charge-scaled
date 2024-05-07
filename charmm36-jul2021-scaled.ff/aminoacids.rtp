@@ -29084,10 +29084,10 @@
 [ HSP ]
 ; Protonated His
   [ atoms ]
-        N      NH1 -0.329   1
-       HN        H  0.217   1
-       CA      CT1  0.049   1
-       HA      HB1  0.063   1
+        N      NH1 -0.470   1
+       HN        H  0.310   1
+       CA      CT1  0.070   1
+       HA      HB1  0.090   1
        CB     CT2A -0.035   2
       HB1      HA2  0.063   2
       HB2      HA2  0.063   2
@@ -29100,8 +29100,8 @@
       HD1        H  0.308   3
       CE1     CPH2  0.224   3
       HE1      HR2  0.126   3
-        C        C  0.357   4
-        O        O -0.357   4
+        C        C  0.510   4
+        O        O -0.510   4
   [ bonds ]
        CB    CA
        CG    CB
@@ -29283,10 +29283,10 @@
 [ LYS ]
 ; 
   [ atoms ]
-        N      NH1  -0.329   1
-       HN        H   0.217   1
-       CA      CT1   0.049   1
-       HA      HB1   0.063   1
+        N      NH1  -0.470   1
+       HN        H   0.310   1
+       CA      CT1   0.070   1
+       HA      HB1   0.090   1
        CB      CT2  -0.126   2
       HB1      HA2   0.063   2
       HB2      HA2   0.063   2
@@ -29303,8 +29303,8 @@
       HZ1       HC   0.231   5
       HZ2       HC   0.231   5
       HZ3       HC   0.231   5
-        C        C   0.357   6
-        O        O  -0.357   6
+        C        C   0.510   6
+        O        O  -0.510   6
   [ bonds ]
        CB    CA
        CG    CB
