@@ -40,6 +40,15 @@ SOD        3
   1     SOD         1      SOD        SOD      1       1.000    22.98977 ; qtot = 1.000000
 
 [ moleculetype ]
+;Custom Counter Ion
+; molname  nrexcl
+CCI        3
+
+[ atoms ]
+; id    at type     res nr  res name   at name  cg nr  charge    mass
+  1     CCI         1      CCI        CCI      1       -1.400    22.98977 ; qtot = -1.400000
+
+[ moleculetype ]
 ;Magnesium Ion
 ; molname  nrexcl
 MG         3
